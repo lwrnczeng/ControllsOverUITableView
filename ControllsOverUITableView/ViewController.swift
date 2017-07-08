@@ -40,7 +40,7 @@ extension ViewController : UITableViewDataSource {
     }
 }
 
-
+// delegate unctions
 //extension ViewController : UITableViewDelegate {
 //
 //    
